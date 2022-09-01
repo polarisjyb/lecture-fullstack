@@ -14,7 +14,7 @@ const green = {
     "205호" : {
       basicInfo : "라면 만들기 양성과정",
       instuctor : {
-        name : "공욱재",
+        name : "공",
         age: 18,
         email : "kong@kong.com",
       }, 
